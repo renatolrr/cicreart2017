@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="297mm"
@@ -14,7 +15,7 @@
    viewBox="0 0 1052.3622 1488.189"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="processing.svg">
   <defs
      id="defs4" />
@@ -25,17 +26,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="375"
-     inkscape:cy="634.28571"
+     inkscape:zoom="0.83146279"
+     inkscape:cx="526.18109"
+     inkscape:cy="918.26914"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1366"
+     inkscape:window-height="658"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -44,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,8 +59,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3333"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(160,-484.3982)"><flowRegion
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       transform="translate(168.94866,-528.24663)"><flowRegion
          id="flowRegion3335"><rect
            id="rect3337"
            width="688.57147"
@@ -69,18 +72,19 @@
          id="flowPara3341">(DISEÑO Y ARTE GENERATIVO)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3343"
-       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-42.857143,-530.11248)"><flowRegion
+       style="font-size:25px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       transform="translate(-53.595533,-496.10758)"><flowRegion
          id="flowRegion3345"><rect
            id="rect3347"
-           width="960"
-           height="294.28564"
+           width="989.53052"
+           height="248.64749"
            x="85.714287"
            y="353.90326"
            style="font-size:25px" /></flowRegion><flowPara
-         id="flowPara3349">P<flowSpan
-   style="text-anchor:start;text-align:justify"
-   id="flowSpan3427">rocessing es un lenguaje de programación de fácil utilización, y que sirve como medio para la enseñanza y producción de proyectos multimedia e interactivos de diseño digital y arte generativo. Existen una multitud de modos, pero ¿cuál es el adecuado para cada creador?Processing (Java)Processing.pyP5.jsProcessing for androidComo característica remarcable es su fácil curva de aprendizaje, siendo posible su utilización en centros de enseñanza secundaria.También hay que destacar la posibilidad de utilizar placas c</flowSpan>omo arduino, pudiendo realizar proyectos Iot (Internet de las cosas).</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara3123">Introducción: Processing es un lenguaje de programación de fácil utilización, y que sirve como medio para la enseñanza y producción de proyectos multimedia e interactivos de diseño digital y arte generativo. Existen una multitud de modos, pero ¿cuál es el adecuado para cada creador? </flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara3232">Como característica remarcable es su fácil curva de aprendizaje, siendo posible su utilización en centros de enseñanza secundaria.También hay que destacar la posibilidad de utilizar placas como arduino, pudiendo realizar proyectos Iot (Internet de las cosas).</flowPara><flowPara
          id="flowPara3351" /><flowPara
          id="flowPara3353" /><flowPara
          id="flowPara3355" /><flowPara
@@ -90,72 +94,285 @@
          id="flowPara3363" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3365"
-       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(51.428571,-561.54106)"><flowRegion
+       style="font-size:25px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       transform="translate(120.33324,-718.87487)"><flowRegion
          id="flowRegion3367"><rect
            id="rect3369"
-           width="454.28571"
-           height="128.57143"
+           width="363.00934"
+           height="169.73528"
            x="537.14288"
            y="839.61755"
            style="font-size:25px" /></flowRegion><flowPara
-         id="flowPara3371">Evaluar el modo de programación adecuado a las necesidades creativas, experimentando con cada una de ellas.</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3373"
-       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(1,0,0,1.3200866,-71.428572,-960.43104)"><flowRegion
-         id="flowRegion3375"><rect
-           id="rect3377"
-           width="580"
-           height="151.42854"
-           x="94.285713"
-           y="1008.189"
-           style="font-size:25px" /></flowRegion><flowPara
-         id="flowPara3379">S<flowSpan
-   style="font-size:17.40719414px"
-   id="flowSpan3397"><flowSpan
-   style="font-size:19.58309364px"
-   id="flowSpan3423">e insta a los participantes (comunidad universitaria o alumnos) a la realización de un mismo ejercicio (por ejemplo “Random Walker” de Daniel Shiffman), utilizando los diferentes modos de programación. Posteriormente se realiza una encuesta a modo de retroalimentación a cada particip</flowSpan>ante.</flowSpan></flowPara></flowRoot>    <flowRoot
+         id="flowPara3371"><flowSpan
+   style="text-align:justify;text-anchor:start"
+   id="flowSpan3226">Objetivos:Evaluar el modo de programación adecuado a las necesidades creativas, experimentando con cada una</flowSpan> de ellas.     </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3381"
-       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(57.142857,-650.11248)"><flowRegion
+       style="font-size:25px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       transform="translate(-19.499006,-525.56803)"><flowRegion
          id="flowRegion3383"><rect
            id="rect3385"
-           width="439.99997"
-           height="188.57149"
+           width="491.18631"
+           height="180.68234"
            x="537.14288"
            y="1182.4747"
            style="font-size:25px" /></flowRegion><flowPara
-         id="flowPara3387">Los resultados de las encuestas determinan la importancia en la toma de decisión personal a la hora de escoger un modo de programación, basado en el conocimiento y en la experiencia.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3387"
+         style="text-align:justify;text-anchor:start">Resultados: Las encuestas determinan la importancia en la toma de decisión personal a la hora de escoger un modo de programación, basado en el conocimiento y en la experiencia.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3389"
-       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-34.285714,-484.3982)"><flowRegion
+       style="font-size:25px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       transform="translate(-16.767888,-436.09693)"><flowRegion
          id="flowRegion3391"><rect
            id="rect3393"
-           width="345.71429"
-           height="268.57144"
+           width="387.0502"
+           height="231.77621"
            x="62.857143"
            y="1219.6176"
            style="font-size:25px" /></flowRegion><flowPara
-         id="flowPara3395">Cada persona, debe de investigar, experimentar con cada modo de Processing, para obtener un resultado creativo óptimo. Ello aumenta la batería de herramientas óptimas para el creador.</flowPara></flowRoot>    <flowRoot
+         style="text-align:start;text-anchor:start"
+         id="flowPara3224"><flowSpan
+           id="flowSpan3613"
+           style="text-align:justify;text-anchor:start">Conclusiones: </flowSpan></flowPara><flowPara
+         style="text-align:start;text-anchor:start"
+         id="flowPara3649"><flowSpan
+   style="text-align:justify;text-anchor:start"
+   id="flowSpan3651">Cada persona, debe de investigar, experimentar con cada modo de Processing, para obtener un resultado creativo óptimo. Ello aumenta la batería de herramientas óptimas para el creador</flowSpan>.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3403"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       transform="translate(0,-435.82677)"><flowRegion
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       transform="translate(-17.691582,-354.87737)"><flowRegion
          id="flowRegion3405"><rect
            id="rect3407"
-           width="511.42859"
-           height="277.14285"
+           width="546.32837"
+           height="200.1843"
            x="511.42856"
            y="1196.7604"
            style="font-size:15px" /></flowRegion><flowPara
-         id="flowPara3409">Processing. Procesing.org.  Recuperado de</flowPara><flowPara
-         id="flowPara3411">https://processing.org/   [12 de febrero de 2017] </flowPara><flowPara
-         id="flowPara3413">Reas, C. &amp; Fry, B. (2014). Processing: A Programming Handbook for Visual Designers. Second Edition. USA: The MIT Press. Reas, C. &amp; Fry, B. (2015). Make: Getting Started with Processing. A Hands-On Introduction to Making InteractiveGraphics. Second Edition. San Francisco: Maker Media, Inc.Reas, C., Fry, B. &amp; Parrish, A. (2016). Make: Getting Started with Processing.py: Making Interactive Graphics with Python's Processing Mode. San Francisco: Maker Media, Inc. Reas, C., Fry, B., &amp; McCarthy, L. (2016). Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing. San Francisco: Maker Media, Inc. Shiffman, D. (2012). The Nature of Code: Simulating Natural Systems with Processing. USA: Magic Book Project.</flowPara><flowPara
-         id="flowPara3415" /><flowPara
-         id="flowPara3417" /><flowPara
+         id="flowPara3411"
+         style="font-size:12px">Referencias bibliográficas:</flowPara><flowPara
+         style="font-size:12px"
+         id="flowPara3222">Processing. Procesing.org. Recuperado de https://processing.org/   [12 de febrero de 2017] </flowPara><flowPara
+         id="flowPara3413"
+         style="font-size:12px">Reas, C. &amp; Fry, B. (2014). Processing: A Programming Handbook for Visual Designers.          </flowPara><flowPara
+         style="font-size:12px"
+         id="flowPara3143">      Second Edition. USA: The MIT Press. Reas, C. &amp; Fry, B. (2015). </flowPara><flowPara
+         style="font-size:12px"
+         id="flowPara3139">Make: Getting Started with Processing. A Hands-On Introduction to Making</flowPara><flowPara
+         style="font-size:12px"
+         id="flowPara3157">        InteractiveGraphics. Second Edition. San Francisco: Maker Media, Inc.Reas, C., Fry, B. </flowPara><flowPara
+         style="font-size:12px"
+         id="flowPara3159">        &amp; Parrish, A. (2016). </flowPara><flowPara
+         style="font-size:12px"
+         id="flowPara3153">Make: Getting Started with Processing.py: Making Interactive Graphics with Python's</flowPara><flowPara
+         style="font-size:12px"
+         id="flowPara3161">         Processing Mode. San Francisco: Maker Media, Inc. Reas, C., Fry, B., &amp; McCarthy, L.</flowPara><flowPara
+         style="font-size:12px"
+         id="flowPara3163">          (2016). </flowPara><flowPara
+         style="font-size:12px"
+         id="flowPara3208">Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and </flowPara><flowPara
+         style="font-size:12px"
+         id="flowPara3167">          Processing. San Francisco: Maker Media, Inc. Shiffman, D. (2012). </flowPara><flowPara
+         style="font-size:12px"
+         id="flowPara3155">The Nature of Code: Simulating Natural Systems with Processing. USA: Magic Book</flowPara><flowPara
+         style="font-size:12px"
+         id="flowPara3212">          Project.</flowPara><flowPara
+         id="flowPara3415"
+         style="font-size:12px" /><flowPara
+         id="flowPara3417">R</flowPara><flowPara
          id="flowPara3419" /><flowPara
-         id="flowPara3421" /></flowRoot>  </g>
+         id="flowPara3421" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="445.07761"
+       y="-196.56274"
+       id="text3214"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3216"
+         x="445.07761"
+         y="-196.56274"
+         style="font-size:32px">Renato Luis Ramírez Rivero</tspan><tspan
+         sodipodi:role="line"
+         x="445.07761"
+         y="-156.56274"
+         id="tspan3218"
+         style="font-size:32px">   Universidad de Granada</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3237"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-3.7388391e-6,-435.82677)"><flowRegion
+         id="flowRegion3239"><rect
+           id="rect3241"
+           width="225.07599"
+           height="174.68584"
+           x="60.468174"
+           y="47.030804" /></flowRegion><flowPara
+         id="flowPara3243" /></flowRoot>    <image
+       y="-364.73434"
+       x="60.826485"
+       id="image3253"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAN0AAACMCAIAAAB3dDsfAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+nO2de3RTVb7Hd2lp+kjS0ocQQgVKiy2lU2iZKqDNXcDUjug4HRxQr3RGLb7oGnUYpwvvOIjehYMM
+A96FDDNUXRSHkSJUrxQDgst0pGiESq2FSh8IJUQmNLZJ2zRAm/vHr93dPTmPfR4JuXI+q3+kJztn
+733O9/z2b//244T5fD6kohJijLneBVBRYUHVpUoooupSJRRRdakSiqi6VAlFIq53AVTkYq5tPGhp
+7LA7391adr3LohiqLhWgw+5sarEhhLLSjSmGhGBmvbHCXLHbAlkrcsLrWBcSVZfSaWqxVdVYm87Y
+4EYCm154sKggOzgFWLO5uqrGCp+zpsvSZYDq0tRi67A7m87YLtidHXYnLuraZ4r5f6jqUgpVNVZz
+beOx+laEUFa6MSvdiG/nQUtjcHS5scJcVWPNSje6ejwddqdke6l4XTrszmP1rcfqW0GU/gmaWmyl
+y0z8xljVpQiaWmxmS+PB2sYOu3Nubtqq0qI7C7Lh+lbVWNdsrg5aSapqrBW7LUsX568qLbq1+CWE
+0NzcNFFnULwuTS22Y/WtdfWtIHGEUIohISvdmDXdqNdGI4RAqQihpYvzBT0E5XUJhYPPRaZspfye
+4BfG1eMxWxr1umiE0AW7E664Xhu9dHG+/6kgGaJoT109nqYztu4eD0IoThuNbxs9HXbnxgrz0sX5
+a58phjs9NzeN/04HqC4IIbC1x+pbwTRmpRuXLs7PSjf6F+nZl3c1tdig2IKnVVKX5trGqhorflwQ
+QhW7LatKi0qXmSSfE9qCC3Znt9tD+igIoSJTNs+ZZRbG1eN55PdvkM6WXhu9qrRo6eJ8VhkdtDRC
+mqWL81lP2GF3Vuy24PtHAkaF9V6yFuzZl3cVmbLh7kIF5/EaS8XrAqax6Yytrr7V1eNBCKUYEkiL
+y8qdpuy1zxZTPoSK6XKUD55uRAiB37Oxwjw3N43eUEGdwVnusDuh2lwpuc4sszD+N7J0mWnF/Sau
+a1qx22KubUQIrSotYk1TVWPdWGEm65KVbsS1a2qxYbO3YpmJv0XeWGEm+w1NZ2x6bTTPwya5Livu
+N9URTzWYBrg1UGzyDL8tLRL0REW5qgroEtccnjDsPbh6PPc9tQW8YEEpVOy2kM8fgxRDgn50kxen
+iwYnPRCFeeblXfhGZqUbV5UW8WilYrdlY4UZIQTZcaWBemWlG0vvN83LTYOKMCoraEsqdls67M43
+1z+KK1tX38pvLKXVBSGEP5CkGBKyphvn5aaBdb/vqS1wcv4ySECuLrEO5uambX7hQfLK6rXRc3PT
+Omqs3W5Om4c4WhkQEz74xvpHaWJp8guDhg02fC4q4Gt6XD0e6BQjhEqXmVaVFrEmAzEhhPxdK1Ge
+ZVOLra6+dfMLD+IjVTVWV4+H62GQUxeIieJCzstNy5pu5Gpq5g4/ZgoiS5dYB5TOLCt1w900hFBW
+upH0GqE5pgzwKlIYhBDOi/885trGv1SYO+xO7KtxlWr7OxaE0NzcNDmlAt2sfWaUsODi8Ng/aXXB
+VjzFkACNAKvsXD2eABlLJFOXzwj1sJrO2BBxdViBK5uVbpyXm8a4xPBzyoixIoUhS8Vl/1w9njWb
+qsEJ4zdCCKHt71hcPR69Npq0cxJYs6l6VWkRWXgww1yFJJFQl263J07H57ai4euJlBtqIpGuyzWb
+q4/VtxYVZPM8iNB+4bgDKymGBOwwsf6cptpKFQYhZLZw9mDA+EHrmWJIEHT2XT0eaBl5+hk0rNlc
+DR12Rjl5usw4DZJUFxq5g7FMMSSIDZ3SIFGXVTVWaETWPsvXNmVNNx6rb42TdEvMtY1gaYpMAv04
+ZQtjrm0sKsj2v9YVuy1VNdYOuzPFkLDifhNNvAn64FnpRjmRMnD1GGcw1zY2tdiKCrL55a5gXfyp
+Gx4ikvBbQaToEnwdxB0WwWx+4UGzpVHa84Qjc/xZKFsYCDFuItrcDruzqsaKx0WWLs6nvIs4VlV6
+v+i77urxPPPyLoRQnDa6u8fj357QnFnBuvgDkQ0kfpyJEim6BDNQKhRpQ7yxWUGg2oI3VcHC4CjJ
+sfpWl9sDM2ugGOAhUN4Dsm+Lh+BEjetsrDC73J65uWlVNdaPdj7H+BaGWPgDsUrVhYuDtQKxd5mI
+1iVMPAH7H4gCARC/FYyBK1gYc20jjtjhmHyKIaF0mYlmPBfDCHvB8Ax8hh6eoK8JlVq6OL9it4XR
+ASeLx9MLVqouPMBpAyRKJEGXFe9YEEJcsQOlwD3E4BSmqcW2ZtOomQpzc9OKCrIlXHezpZGMxTJy
+QcPBF54zwC2vqrFCU8s8f20jDG1zNcEK1oULCAXotdGBs03idNnUYjPXNsKTF6ACAWZLo+D9U7Aw
+azZVk0Mvem302meKpdkVckQeDc+uzZpunGRIEPSVEUIddid0ohFHpxhUy9MXVLAuXCgSZOBHnC6h
+QAFydTEwaif4LCpYmKzpRtLIQeMrYVlCh91pJhwvCTOYnn15F1bVfU9tmZubBoN+WdON3W7PweGJ
+kjxPrFJ14QKMZaBtk0h7ecaGRA7AS6BueApW0AoDoc1VpUWTDAkHLY0QhdlYYaYJ45HAo5KVbnzz
+1UdF2RJYo+M/PeAYMZ0RwzoxAKNUXVjBw1eB8ywBEbqEcScYaA5cgaDbKBiZU7Aw4LGVLhsK4xUV
+ZGfttsC6Gf8hKP4iVdVY9dposaJsarHhvhEAHiGjsYZJSYi3EVeqLlzA8JXMiCwNItbpQhw10GuR
+KGN+Chamws8AlC4zgRneTkxfEATGTopMAk+UP67RU0mWLs5/c/2j0Jkj/0qXmcBM8oWHFKoLK00t
+tqEgfyBDMUBorR+HadWi5mvKpGK3BQZOGBL/bWmRXht9rL61gvp2SvZ35+amvbu1DNSTYkjgn97B
+00QoWBf28w9PQAnCAiYRugzCqk1oJmjmpyhSmKYWG3hL/gYgxZAAxcDxP35gWE9ySVIMCXVCHRpw
+XbgqrmBdWDHXNkKXLtCeJSBCl1npRr02Gk+uVhzwzyg7eooUBvqVq0qLWM0z3GBY/0BzKsnFQMPB
+Hf661/GO+ylYF1ZwaxCc1Z7i2nF47MCeKw7cmzs5qu3q8cAji3us8gtTVJD97tYyLingqY04oMgD
+NmP+3WdBKE3RBV7pK1gXf2CoHQU+FIMJf/HFF+lTz8tLq6qxNrXYHE533swpmsixgj+BZ/TFzdXe
+K9dyZ07hSvOXN8zvH/4SIfSn8qVxuqE1Bv/udB+sbaw6YH298si6rfsP1jbCsCwoMkCFIXE43cfq
+W+H8ArNIpxs/+azZ4XRDeW5K1N+UqBc8P/DUC5XQyf1T+VKeZPVN547Vt2o0Y+/9SS7lmUno6+LP
+lp1HLtidKYYE/hIqSJjY/YKbWmyP/P4NPAMNAr9kAmhuyC0WIBmjfYG1KXjNKPkVrObhaqDJNY1K
+FYaLDruzsGQDEprvjWuEp2ug4VWOZN8cl0Gvi8YN7rH61kfK34DoEn+pICVC6N2tZRL6haLqwpqv
+zIUAohCtSzQcXIXpUqwJ8IJ21oWbMIlLsL3Dq3xIYAW+goURBJZWZaUbKYdMOuzOg7WNsJgTDY+J
+M2QEk3yh1a7Ybel2eyjH9B4pfwNmEnHNpFa2LkDFbgv0R4O5xY0UXWLIxd1xuuhJhgREMWMSb/Xk
+D15J7T89O0CFEQRPo/y8+o8STuW/pFUOuH2QtipfTl3geRCbo2Rkre/hHxDjIm70SgZRq/oVL4wg
+MgNSys5sAFMnOdwjpy7BFCW6LvsTlS4zgTGTtgtKkIGiBnpeHz0QDJL221CrCw+y2vEbAfAXAz0c
+HBz+H9VF1aVKKBJa4+MqKoCqS5VQRNWlSihyHfrj1ob25jb76baLtu++b26zu3v7uVJOHB9vHD9O
+r43OmGYwThhnHD8uPyeVMpdv7H1/3n+eP832FRkSEjPwWSyDCxbw/zZ8YEBCYgaXXhOI8sTeWq69
+rZwyMQ+RxvlhmriI5OzISfMjJ90u+TxyCJ4uqw+dOHL0lLWhnUeIDC5e6rp4qQshdKTuFD6YkWrI
+SDNkTpuYn5OaMc3A9duURM3DJsPRM91n7H1yih0dOWb2FN286XFcCcJycsa8+aZvxw6fRd50lri4
+sHvvDfv1r7m+v+mJs/1tNb2frR9wd8jKSIgrtqMIIW/7gd7PUZhGH5W6WDPtLs20xQHNlEHA++Pu
+nv4d+z6t3HeUXo706GKjSn4xv6xkEU+ab+x9b31i7+y56v+VoL1MSdSs/MmkRJ3wjBAEtvDhh9G5
+c/5fCdrLsJycMfv2oSlTaDLq+/Kv7tr/8j+ulL1kJVyXEntbefQMWbt/0RNYe7ml8jCrIieOj8/P
+SeVql6Ghp7Gs7t5+a0M7f5pbDDF/XDLlpb3fskqTh+mGmOfuvpk+fZjJFF5fP5CbyypN/h+O+fhj
++vQxs5+MnHR75y7RYchwXUrkpNvH6G+OnDTf/9sB1/kBV8fVC5+CvWR+6+5wfVTmbTsQV/h6mIaz
+9VCKQOmyuc2++tU9ze128uDE8fHFhXnFd+YZx4/j+S0W65Gjp6oPnSAbcX9ohi5iIsMf/g+DoAdJ
+kqgdu7JQ/KhmfPyYt94S9CBHMXnymH37xOYTkZwde2t57+frKdNrUu/S3lYekUwz66IcIeRtq/G2
+HfCc/ifjO2/7gc5/FMTf8zbdqaQTkP549aETxU/8DynKiePj1z1335G3y8tKFvGLkmTh/Blb1i6v
+3vabH/9oKlcaHheT5BZDzKzJWsp8EUI/y0uKiQynT48JM5nCfvYz+vRj1qxB8fESMoqd/QR9YrFK
+0kxbrC98/aYnzsbMYuYy4O5w7r3nmmNkfrHb8rzP201/chqU1+XqDXue3/AueaSkeP57254uLsyT
+dsKMaYbKjY+tXL5QZsF4+i7+zJoiQsQMePouLInvvVdiLpo4TepdNCkjkmZKzkJnWpf4oIVxBp/X
+RUpTe1t51wcPXbnwqbRcWFFYl6s37HnvUD3+VxcbteXF5aufulunjZJ55rKSReueu0/OGW6ZGEOZ
+crohRpqxBMJMtJ5fmMkkzVgClCZwjDx3MCI5O/E/a6MzHyAP+ryu7kMrwUyCfLv2P+Q5tYvjHKKR
+rkt3T//qDXte2bofH3ll636GKCs3PrZw/gxZBSQoLsyTI82YyPCURA1NylsMtApmJz4+LCeHKiW1
+gllh7b4ECH3h6wxpXrv8dfehlfA5Ijlbe2u566MypaQpUZfVh04sfGi9taEdx2iqD52orB7px4Eo
+KZ0/eooL8xbOGyX0zGkT6X+eqKWK+CTRBYb4mDyZJlUYXWCIC0pDqFQfxV+a3vYD3rYa+Bwz+8lI
+43ylpClFl+BBunv7X3nul9BA2y59TxpOhNArz/1ScVHiM+tiR7wCUR5CSiJVYsqAJR+zZlElk6dL
+SsEpGNbRmdYxfE235Xn8Ofa2coSQ66MyLFbJiNYl9iB/XpiLAzqvbN1PxhpLiucr2Hwz0GmjVj91
+N/63uc3Ok1hFWcI0cXGFr5NHBtwdPZ8NhasiJ90Oqu3+aOWAS0RUzh9xutxSeRh7kLgFtza0kyHG
+iePj+Qdg5FNcmDdx/FB3gedFff7EaKjqS+mG8hBG15uhdUNDiYjkbEbwqJ9ouGNmP4EQ8nldrmHX
+UxoidGm79P3rO4/A54XzZuAw5JbKw2SyspJF8nvfgvzqF1LmE1C243I640NQtuMyOuPXEe1t5WGa
+kdXxA+4O7FNGDQ+jX7Ed7fvyr5KzEKFL0oPEwcjmNvsXX53Fx2FER3Jp6MG5hP5SlR8eYZq4qNRR
+0zi8bQfwVziq2vP5esnxdlpdNrfZcWOti43C7uOOfaOiqYFuwTE6bRR0zAPUu1LhJ3Z4ggjgbT+A
+P+Polc/r6v1ym7Tz0+qS1B/ZpzlydNTg9aJ5WdLKIQH6uZgqihOuv5nRMcfjPeSUzX6pMSMqXbp7
++smAORYfY8rPwnkzguBZYlRdXl8YMzKvXBiKXpPRqwF3h7SYEZUuD9c1kf9iQTDmmAVZKBnTDCuX
+LzROoJ0FoqIsjNGmq8T4eKRx5CvseoqCSpdkYz1xfDw2itdXlwghUbOTVJSFscSCDFiG60fmrfa3
+B8xekuFJctyPEdNWuyChyRgN7Y6HYiFdTHJ1xxhClz6vi5wUR4mwLhlGkRQf6VzyTJFUub4Ebg4v
+aRcRQlh/4foU8riEKXDCumQYRezPMfSqxhFvQBiKHxyOVjL0OuASvVBOWJe2774n/+Xy59RGXIWL
+gLTjp9sush63Xfqe9bjKjcPYZIkz4QWRPi+YYUdVbkAYM+gI/3JUO371cgDsJQOuYJAaR1QZ9Lrg
+A0OXvuHj9Ci2vkeNI6ooiGK6VN1NFQXXG4nWJdf8cNXdVMEwOuDksCQlonWJ54eLWvCl8oOEKwA0
+KHubA2FdcukvmFOHVEKTQboOjYSFb8K6ZOjP3cO+l5Xg/lUqPzwY09HxTA7GcQkDocK6ZASGcJid
+cVzt94Qsim8ehOFqx686vib/ldAfEt2Ok/aSXMd98VIXlylVub4wVKLkmYmAOdm5YTwJYwNhL3Xa
+qIzUkbFvcliSMSauNuU3FAOu82TAnGysSTsakTQzIP4lGr2gh4wTMZpyVZc3FIzZaxHEWDlpR6Nn
+jNo6hhIqXRbfObL01t3bj6XJ0CVjuYXKD5urF0ZtK4w7PdccjaQdlbb1NZUujePHkU05tov5OakM
+F1M1mTcIPm83uUAiXJeCx8RJOxqd+YC03ZFo4+olS0a8WlJ8jH2IKvexbM0dOnxzUda7KejxffJJ
+cDK6XvS31ZBGkVwbeYWwo4xl5vTQ6pLcEuhI3Snc9WbsrnGk7pQaMLoR6P1s1NbuMcObavu83XiP
+g+jMBxgTi+gRMQ75/JP34M/Vh07Ah/ycVKxXYPWre6QVRUUslOtmBuVtreaP59QucpVZpHE+1l//
+8GrxMI1eZ1onOQsRulw4fwZeXEZuv8HY++WLr84yNuEIHO6efmtDu+Jx047OIAVifSdPBiEXmVv+
+MfB5uxnGkmys8VdxP5H1OhVx8zZe+f3QnqgXL3Vhk1lcmEf2ihBCqzfsCUKM3d3TX7Lq77/63Xb6
+kfpv6N591ndlUEa5EEIIUb77rFvWSEzgBnJ46Bn9wrVI48i7+rAdjb21XOb70cTp0jh+3CvP/RI+
+k9sLkhulIoTcvf0lq/4up1iCgCib2+0ML0IROt3i3kAlnW+/lfNryoEcCcsYuPCc2tV3ctRWWGRj
+DcYyOvMBrdTuDkb0PLeF82fA5vsXL3VhaebnpDLeY9Lcbl+9IVCOpu3S9yBKJHK6HeW7Ii/L1iXl
+uyJ98nRJ6ThKWMbAiufULtdHZeSRmFlP4GEesKPRmQ/oR28oLA0p89XxeyEq9x3FMfaykkWMrQ3e
+O1RfsurvijfoR46eKn585KVV9OuD6b3Gk+fcUko2jAiv8f335WREv1+AhJWyDPxFGZE0ExvLa47G
+3s/XKyVKJHkdRXFhXvW23+i0UatfHXElX19bwnA0v/jq7M+feE2pYLvt0vdla3aWvbiT3OdD1Juf
+KVN2dHplNeXUL9b1NTRIbsoHXOfpX6wrp+vj83a7Dq30F2XCfR/gBM6998TeWq6UKJGc9T0Z0wzv
+bXt64fwZK9dUgjR12qjKjY8xpHnxUtevfrd99YY9cuKatkvfr96wZ9FDr/q/K5K+HT/cKKIAR89I
+71IMvvaaiMQ7dkjLxXOK+fJGHq5ckDje4Tm1q/MfBYwXRYIoobvt83Z3ffBQ/N1vy/cpR2Uh58c6
+bVRZyaJRM9+0UZUbH1u9YQ9DQO8dqn/vUP3CeTOKC/PoX1Xh7uk/XNdUffAEuVX2qALERlF2xg9/
+7RT1Pt0P6i/PnqKl3I+dxPfaa6Lep+t76SXfvfeGUe7Hjn/l7e47KWL38isXPr3maKSfnzvgOu9t
+q+n7cpu/Sdak3oVfqXvN0eg59c/4e95W/A27CrxPl6EMnTZqy9rlWyoP45cEYI7UnQK9/vhHUzOn
+TTROGMfqHTa32U+3XWxutTNex+sPpXPZ0dn/vycu06Qk2bD//HN33yxKmr6TJwfXrhWb0eCCBWM+
+/liUNLs+eEhUb+ba5a87d5nCdSkRydkRydnh+hTWkZhrjsZrjq+vOhqvXWbp6Ydp9Npby2NmP4mP
+RCRn60wB2ZQrUO95LitZtGh+1rqtH7Caui++OstlAumZOD6e5q0UX37rfsti94gPSXquDG7Yf35l
+4STK1/L53n9/8OGHpYQku7sHFywYU11N82JJaDdZXxEuyIC7Y8DdQe6FTkmYRh+d+aD2tvIgvHkc
+CJQu0fB7cK0N7VsqD8tXIQbeOlBcmMff4+m7MnDy256jZ7opY0OseK4M/nn/+emGmEUzx82eomNP
+1NXle/99344dlLEhdrq7BxcsCDOZwp5+musNuz5vd++X2/pO/lWpuA8NEUkzo2c8ED3jwaApcijf
+QGeQn5NaufGx5jZ79cETh+uaLl7qknaeH/9oan5O6qL5WdRtt/ctizKvQjtj7ztj79u+IoP1W19D
+w+AjjyiSkc9i8Vks4QMDrN/+e1swdhgN0+jHJmVHJGdHJM+MnHS75IkXcovh8/mCmR/2HU+3XWxu
+s5MRH5KJ4+ON48dhH1Td4v9GI9i6VFGhQbH9iVRUFETVpUoooupSJRRRdakSiqi6VAlFVF2qhCKq
+LlVCEVWXKqGI3HFIc0Pnucv9x9tHJnhnGmNnGGOKchL9EzvcV59/p43/hJOTouak6vJS9cm6sRJ+
+Thbjt3elsH51vN39tyM2+PyH4imTk5gzhnb+67vaZhHjpQUZ8cvvmECWMFk3dt390+Dbvx2xwfVZ
+fseEggyB1Uj4DEvyk4tyEllPyEjJxZxU3eSkqIKM+BhNOE0tBC9L4LL2R7ouzQ2de60O/+Onbb2n
+bb17rY7HFxrnpHLMdeDm3OX+c5f791odcGMkF4+HE2dH5j0cb3fz3ABFyJuqB10eb3cL6vJE+1DZ
+BFMKcrzdfbzdvdfqKMiIX5KfLCgRBS+L2Kz9kajLvxzoOG3rhc9L8pPxk9HnHaht7gK9/u2I7bKb
+XVvYwPhjbuj8sMHZ5x3Ya3Uk6SJZle1vPOhxuK+S1r22uWtJfjIjzfI7JvgXb8X2ZvjANYGDizmp
+up2fhvd5B07beh3uq/7tAEnt6S74Cf29ZL0acCOOt7vPXe6vbe46bet9dvHNPFnTXJYAZc2KFP9y
+57++A1FOTopad/+0opxEfBFjNOFFOYl/KJ4CR/ZaHecui1t3Rv5856ff9XnZJ9dIBgzS5KSoTGMs
+QqjPO0DejwCBjR82h6yAcBFCeVPlvpkZ3wiwCw731U0153kupoKXRWzWrIjW5WlbL/heMZrwxxcZ
+WZ+DyUlRy28fsjesbT0/ybqxcCP7vAOnbArvdIUNErbEZPsVIAoy48ncuQApxGjCJfg/XGB3yOG+
+uvPT77iSBeKyUGbNimhdftjghA8/zUngMc5zUnXw5J229Yo1mQihWM1QwfquKGkvsUEqyIifM3Wo
+rTze7lbcKjNI1o2Fq+FwX8X+D4M+78Dxs26E0E9zEpTNfUl+Mtyp4+1u1twDd1kEs+ZCnC7Jy5qX
+KtDWwJM3J1UnoXpYyjGREjt0rIClB+8tRhOOm1dRvW9pYDvE1T4ePzukA8ELK4GiWYk8uQf0svBn
+zYU4XWJRJuvGCnqyBRnx21dkPL7QCKaCHujNIYRiNOEzjFRra2jAPhO+7rh5DYKLOWKHzrLbIShD
+pjFWbBeBMvehXM4yaxroy8KTNQ/idIkv6OTkgMRWHO6re60OHEVbfvsEyQEwf+Dpx00q+RmCU0pl
+xEqMJhzuEHRXGd/ihkhBz5KRO8i9zzvAeCoCfVl4suZBYpxIZvNa29zF30bEaMKX3z6B6yY53Fdx
+1Maf396Vwmqhh6xC5qi4YEFGPAgiCIHMOak6qPXxdjcjfAbdYazdQJCkjwQnsvfKIPm0B+GycGXN
+QyiOQy7JT36tJF1Zy4G7XwzvbU6qDp7mILiYuI32t0ND3eGpIsKWihAKl4UVifZSZjeZNa6OR7cc
+LoGNMSTE1Xm8t4LM+L1WB7hZAWpGGXmh0XYId4cDmvtl1xX4EBs5YoyCc1lYs+ZHnC6TdJHwQVA6
+EoCwJTTxRbMSFXT/cQjmtK2XxwE4cdYVaF3mpepBl+SACoiD9PAUp887ANKHHjc+GITLwpq1IOLa
+cdw7Pne53yG049nxdveK7c14cIgGXH/zyU5RBRMoCUcXmJksiIFM3AvG4mB4eMqC+8Kk/xqcy8Ka
+tSDi7CUEt8DnONHu4p9XAQMGtc1d9E9bpjE20xgLQ0oKmkzw3ngmguA5KLXNXQGaLILBXQqwQwEN
+W2Lwc07ei+BcFtasBRHd78Fh0g8bnDwm87StF/suopqnkXEw3qFkenAng2eGDtZEMAKZqaMGVAIa
+tgT2Wh3Yf8X3IjiXhTVrGkTrMlk3FhyjPu/ApprzrNI8d7l/57+GxkNppqWQFGTEwx2CWUVii+cP
+XFP+GTrBDGQiQgofNjgDGrZECO21OswNnQihZN3YX+TfhI8H4bJwZU2DlDhRUU4iXFnoQZsbOrGA
+HO6r5obO/67+FvS6/I4JEqJf4Gmxxp8lACcRnKEjOE6oICNudEMnCkzYss87ADcCZ8GYZBO4yyKY
+NQ0S40TL75gwOTkKjOJeq8N/0hB/YJyfgox4MJYfNjhZ5zzzx9Ux21dk1DZ39XkHaMYz50zVQViE
+cuqhHCYnRU1OisIWSGbYUvBqZBpjl98xgSFKRS6LhKwpkT5fHeae1DZ3nbL1kT1umEMvp/cAvSsw
+wzI7IkOtFcWNB6MFNywIgcw5qboRXQYsryX5yXhKJUkQLgtX1pSo+2aphCKhOA6poqLqUiUUUXWp
+EoqoulQJRVRdqoQiqi5VQhFVlyqhiKpLlVBE1aVKKKLqUiUUUXWpEi/VSUEAAAAHSURBVIr8H/ll
+pT5Cs7JIAAAAAElFTkSuQmCC
+"
+       height="140"
+       width="221" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3653"
+       style="font-size:24px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-28.864796,-367.27289)"><flowRegion
+         id="flowRegion3655"><rect
+           id="rect3657"
+           width="566.4715"
+           height="214.08055"
+           x="45.702587"
+           y="781.00159"
+           style="font-size:24px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara3661">Método: Se insta a los participantes (comunidad universitaria o alumnos) a la realización de un mismo ejercicio (por ejemplo “Random Walker” de Daniel Shiffman), utilizando los diferentes modos de programación. Posteriormente se realiza una encuesta a modo de retroalimentación a cada participante.</flowPara></flowRoot>  </g>
 </svg>
